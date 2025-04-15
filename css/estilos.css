@@ -1,0 +1,44 @@
+body {
+    background-color: #eeeeee;
+    color: #333;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #ff3300;
+}
+
+h2 {
+    text-transform: capitalize;
+    color: #3366ff;
+}
+
+h3 {
+    text-transform: none;
+    color: #ff3300;
+}
+
+a {
+    color: #ff0000;
+    text-decoration: none;
+}
+
+h4 {
+    color: #3366ff;
+}
+
+ul {
+    text-align: justify;
+}
+
+img {
+    border-radius: 20px;
+    width: 40%;
+    display: block;
+    margin: 10px auto;
+}
+
